@@ -1,0 +1,23 @@
+.container {
+    text-align:center;
+}
+.questionsContainer {
+    text-align:center;
+    border: 5px ridge purple ;
+    background-image: url("https://i.gifer.com/2eSd.gif");
+    height:430px;
+    width:350px;
+    display:inline-block;
+}
+.fortuneContainer{
+    border: 5px outset darkblue;
+    border-radius: 25px;
+    width: 550px;
+    text-align: center;
+    display:inline-block;
+    margin:32px;
+    background-color:lightblue;
+}
+.img {
+    width:450px;
+}
